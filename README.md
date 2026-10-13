@@ -3,6 +3,12 @@
   <img alt="Laurent. Three agent threads finish one by one, and yapd reads each one out." src="assets/header-light.svg">
 </picture>
 
+<details>
+<summary>Let Jarvis introduce me</summary>
+
+https://github.com/user-attachments/assets/25da67b0-f363-4b84-a317-787b8c7823bd
+
+</details>
 Code is cheap now, and so is any single idea. Having way too many of them finally counts as a skill.
 
 - Studying at Epitech, currently at Université Laval in Québec
