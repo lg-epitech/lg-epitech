@@ -13,6 +13,7 @@ Previously Head of Software at [PoC Innovation](https://github.com/PoCInnovation
 
 **Things I built**
 
+- [Distribox](https://github.com/PoCInnovation/Distribox): A self-hosted platform to create, share and use virtual machines straight from the browser, nothing to install. Built it at PoC Innovation.
 - [remote](https://github.com/lg-epitech/remote): Ran out of batteries, wrote a web remote for my TV box.
 - [free-sound](https://github.com/lg-epitech/free-sound): Needed to mute my classes while doing important things, built this because the paid options suck.
 - [nowish](https://github.com/lg-epitech/nowish): Aggregates my usage of public spaces, ranks them by how crowded they are and gives me a congestion score telling me if I should go now.
