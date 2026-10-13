@@ -1,17 +1,24 @@
 https://github.com/user-attachments/assets/25da67b0-f363-4b84-a317-787b8c7823bd
 
-Code is cheap now, and so is any single idea. Having way too many of them finally counts as a skill.
+We all know that code is cheap now with AI, and so is any single idea.
+However, having way too many of them finally counts as a skill!
 
-- Studying at Epitech, currently at Université Laval in Québec
-- Writing the connectors that pull crypto data into [Cryptio](https://cryptio.co). Every exchange API is unhappy in its own way.
-- Building open source with [PoC Innovation](https://github.com/PoCInnovation): [Distribox](https://github.com/PoCInnovation/Distribox), [Dispatch](https://github.com/PoCInnovation/Dispatch), [Debtlint](https://github.com/PoCInnovation/Debtlint)
+I'm a student at Epitech Lyon in France 🇫🇷, currently studying abroad at Université Laval in Québec 🇨🇦
 
-**Things I built instead of just doing the thing**
+Currently working at Cryptio as a Backend Engineer.
+<a href="https://cryptio.co"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cryptio-dark.svg"><img alt="Cryptio" src="assets/cryptio-light.svg" height="20" align="center"></picture></a>
 
-- [remote](https://github.com/lg-epitech/remote): ran out of batteries, wrote a web remote for my TV box
-- [yapd](https://github.com/lg-epitech/yapd): got tired of reading my agents' output, so now one talks to me. It calls me sir.
-- [nowish](https://github.com/lg-epitech/nowish): learns how long chores really take, then tells me when to do laundry
-- [free-sound](https://github.com/lg-epitech/free-sound): per-app volume on macOS. No driver, no account, no money.
-- STD (private for now): records my lectures and writes the notes. I still have to show up.
+Previously Head of Software at [PoC Innovation](https://github.com/PoCInnovation).
+<a href="https://github.com/PoCInnovation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/poc-dark.png"><img alt="PoC Innovation" src="assets/poc-light.png" height="16" align="center"></picture></a>
 
-Also some Neovim plugins ([nshare](https://github.com/lg-epitech/nshare), [headers.nvim](https://github.com/lg-epitech/headers.nvim)) and [a config](https://github.com/lg-epitech/nvim) that will never be finished.
+**Things I built**
+
+- [remote](https://github.com/lg-epitech/remote): Ran out of batteries, wrote a web remote for my TV box.
+- [free-sound](https://github.com/lg-epitech/free-sound): Needed to mute my classes while doing important things, built this because the paid options suck.
+- [nowish](https://github.com/lg-epitech/nowish): Aggregates my usage of public spaces, ranks them by how crowded they are and gives me a congestion score telling me if I should go now.
+- [manifest](https://github.com/lg-epitech/manifest): I needed to share plans and agent outputs easily with my team. So I built this simple (basically free) app on Cloudflare Workers.
+- [yapd](https://github.com/lg-epitech/yapd): I got tired of reading my agents' output, so now one talks to me instead! It calls me "Sir" btw.
+- [STD](https://std.center): Records my lectures, transcribes them, writes the notes, links concepts and gives them to my agents for work.
+- asr (private for now): I couldn't stand the current ASR models, so I'm trying to build one from scratch on a single RTX 4070. We'll see where it goes.
+
+Also a Neovim enjoyer!
