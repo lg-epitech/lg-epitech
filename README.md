@@ -23,3 +23,5 @@ Previously Head of Software at [PoC Innovation](https://github.com/PoCInnovation
 - asr (private for now): I couldn't stand the current ASR models, so I'm trying to build one from scratch on a single RTX 4070. We'll see where it goes.
 
 Also a Neovim enjoyer!
+
+Reach me at [laurent.gonzalez@epitech.eu](mailto:laurent.gonzalez@epitech.eu)
