@@ -22,6 +22,8 @@ Previously Head of Software at [PoC Innovation](https://github.com/PoCInnovation
 - <img src="assets/logos/std.png" alt="" height="20" align="center"> [STD](https://std.center): Records my lectures, transcribes them, writes the notes, links concepts and gives them to my agents for work.
 - asr (private for now): I couldn't stand the current ASR models, so I'm trying to build one from scratch on a single RTX 4070. We'll see where it goes.
 
+A couple more ideas are in the oven :)
+
 Also a Neovim enjoyer!
 
 Reach me at [laurent.gonzalez@epitech.eu](mailto:laurent.gonzalez@epitech.eu)
