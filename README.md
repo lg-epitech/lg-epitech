@@ -24,6 +24,6 @@ Previously Head of Software at [PoC Innovation](https://github.com/PoCInnovation
 
 A couple more ideas are in the oven :)
 
-Also a Neovim enjoyer!
+Also a [Neovim](https://github.com/lg-epitech/nvim) enjoyer!
 
 Reach me at [laurent.gonzalez@epitech.eu](mailto:laurent.gonzalez@epitech.eu)
