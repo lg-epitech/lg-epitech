@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/3a7ba6c9-b768-4a76-9709-20b83bc6bf10
+https://github.com/user-attachments/assets/ae4fbffc-9bd1-4e5a-97c6-4663a5bdc9e9
 
 We all know that code is cheap now with AI, and so is any single idea.
 However, having way too many of them finally counts as a skill!
