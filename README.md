@@ -20,6 +20,7 @@ Previously Head of Software at [PoC Innovation](https://github.com/PoCInnovation
 - <img src="assets/logos/nowish.png" alt="" height="20" align="center"> [nowish](https://github.com/lg-epitech/nowish): Aggregates my usage of public spaces, ranks them by how crowded they are and gives me a congestion score telling me if I should go now.
 - [manifest](https://github.com/lg-epitech/manifest): I needed to share plans and agent outputs easily with my team. So I built this simple (basically free) app on Cloudflare Workers.
 - <img src="assets/logos/yapd.png" alt="" height="20" align="center"> [yapd](https://github.com/lg-epitech/yapd): I got tired of reading my agents' output, so now one talks to me instead! It calls me "Sir" btw.
+- <img src="assets/logos/afterimage.png" alt="" height="20" align="center"> [Afterimage](https://github.com/lg-epitech/Afterimage): A private movie journal. I log every film I watch, who I watched it with, and what stayed with me afterwards.
 - <img src="assets/logos/rilmo.png" alt="" height="20" align="center"> [Rilmo](https://rilmo.app): Records my lectures, transcribes them, writes the notes, links concepts and gives them to my agents for work.
 - asr (private for now): I couldn't stand the current ASR models, so I'm trying to build one from scratch on a single RTX 4070. We'll see where it goes.
 
