@@ -14,6 +14,7 @@ Previously Head of Software at [PoC Innovation](https://github.com/PoCInnovation
 **Things I built**
 
 - <img src="assets/logos/distribox.png" alt="" height="20" align="center"> [Distribox](https://github.com/PoCInnovation/Distribox): A self-hosted platform to create, share and use virtual machines straight from the browser, nothing to install. Built it at PoC Innovation.
+  - [Gliss](https://github.com/lg-epitech/gliss): I wasn't happy with Guacamole's performance, so I built a CPU-only encoder that streams VM desktops to the browser. Built to replace Distribox's Guacamole setup.
 - [remote](https://github.com/lg-epitech/remote): Ran out of batteries, wrote a web remote for my TV box.
 - [free-sound](https://github.com/lg-epitech/free-sound): Needed to mute my classes while doing important things, built this because the paid options suck.
 - <img src="assets/logos/nowish.png" alt="" height="20" align="center"> [nowish](https://github.com/lg-epitech/nowish): Aggregates my usage of public spaces, ranks them by how crowded they are and gives me a congestion score telling me if I should go now.
